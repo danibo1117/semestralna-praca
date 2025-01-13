@@ -7,6 +7,7 @@ import random
 from tkinter import messagebox
 import matplotlib.pyplot as plt
 
+#janos
 
 root = tk.Tk()
 root.configure(bg = "#333333")
