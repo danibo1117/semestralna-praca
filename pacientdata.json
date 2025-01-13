@@ -1,0 +1,220 @@
+{
+      "Pacienti": [
+            {
+                  "id": "1735223589.386403906065",
+                  "meno": "Marianna",
+                  "priezvisko": "T\u00f3thov\u00e1",
+                  "datumnarod": "08.08.1976",
+                  "posledna_navs": "02.01.2024",
+                  "diagnoza": "chronick\u00e1 bronchit\u00edda",
+                  "predpis_liek": "ventolin"
+            },
+            {
+                  "id": "1735223680.0540755751587",
+                  "meno": "Zuzana",
+                  "priezvisko": "Luk\u00e1csov\u00e1",
+                  "datumnarod": "23.02.2001",
+                  "posledna_navs": "03.12.2024",
+                  "diagnoza": "hepatit\u00edda",
+                  "predpis_liek": "paralen"
+            },
+            {
+                  "id": "1735223728.2461393574785",
+                  "meno": "Igor",
+                  "priezvisko": "Karaba",
+                  "datumnarod": "25.08.1997",
+                  "posledna_navs": "05.05.2012",
+                  "diagnoza": "z\u00e1pal mozgov\u00fdch bl\u00e1n",
+                  "predpis_liek": "fevaren"
+            },
+            {
+                  "id": "1735333668.2691147540535",
+                  "meno": "David ",
+                  "priezvisko": "Fury",
+                  "datumnarod": "12.02.1996",
+                  "posledna_navs": "02.11.2018",
+                  "diagnoza": "zlomenina",
+                  "predpis_liek": "paralen"
+            },
+            {
+                  "id": "1735334002.7594316356735",
+                  "meno": "Kamil",
+                  "priezvisko": "\u0160kody",
+                  "datumnarod": "15.04.1944",
+                  "posledna_navs": "14.05.2008",
+                  "diagnoza": "CHr\u00edpka",
+                  "predpis_liek": "Oseltamivir"
+            },
+            {
+                  "id": "1735334272.3386114118509",
+                  "meno": "J\u00e1n",
+                  "priezvisko": "Fabian",
+                  "datumnarod": "5.09.1949",
+                  "posledna_navs": "02.06.2006",
+                  "diagnoza": "Ang\u00edna",
+                  "predpis_liek": "Penicil\u00edn"
+            },
+            {
+                  "id": "1735334540.2187576310630",
+                  "meno": "Ernest",
+                  "priezvisko": "Schrieber",
+                  "datumnarod": "14.7.2015",
+                  "posledna_navs": "13.12.2023",
+                  "diagnoza": "Ang\u00edna",
+                  "predpis_liek": "Penicil\u00edn"
+            },
+            {
+                  "id": "1735334705.1497846383464",
+                  "meno": "Kornel",
+                  "priezvisko": "Dudinsk\u00fd",
+                  "datumnarod": "12.03.1949",
+                  "posledna_navs": "15.12.2019",
+                  "diagnoza": "Z\u00e1pal p\u00be\u00fac",
+                  "predpis_liek": "Amoxicil\u00edn"
+            },
+            {
+                  "id": "1735334943.4077463203745",
+                  "meno": "Anton",
+                  "priezvisko": "Petocz",
+                  "datumnarod": "12.04.1954",
+                  "posledna_navs": "18.07.2012",
+                  "diagnoza": "Astma",
+                  "predpis_liek": "Salbutamol"
+            },
+            {
+                  "id": "1735335069.2102373710688",
+                  "meno": "Franti\u0161ek",
+                  "priezvisko": "Plazma",
+                  "datumnarod": "15.08.1960",
+                  "posledna_navs": "17.07.2014",
+                  "diagnoza": "Cukrovka typu 2",
+                  "predpis_liek": "Metform\u00edn"
+            },
+            {
+                  "id": "1735335191.4828424185524",
+                  "meno": "Rudolf",
+                  "priezvisko": "Gery",
+                  "datumnarod": "04.03.1971",
+                  "posledna_navs": "14.05.2016",
+                  "diagnoza": "Vredov\u00e1 choroba \u017ealudka",
+                  "predpis_liek": "Enalapril"
+            },
+            {
+                  "id": "1735335844.2977502200147",
+                  "meno": "Ervin",
+                  "priezvisko": "Janovec",
+                  "datumnarod": "02.01.1980",
+                  "posledna_navs": "14.05.2022",
+                  "diagnoza": "Depresia",
+                  "predpis_liek": "Setral\u00edn"
+            },
+            {
+                  "id": "1735336083.9962964688637",
+                  "meno": "Vojtech",
+                  "priezvisko": "Gurba",
+                  "datumnarod": "25.06.1960",
+                  "posledna_navs": "16.06.2014",
+                  "diagnoza": "\u00dazkostn\u00e9 poruchy",
+                  "predpis_liek": "Diazepam"
+            },
+            {
+                  "id": "1735336253.5204694333565",
+                  "meno": "Tibor",
+                  "priezvisko": "Matias",
+                  "datumnarod": "19.09.1989",
+                  "posledna_navs": "14.06.2015",
+                  "diagnoza": "Epilepsia",
+                  "predpis_liek": "Lamotrig\u00edn"
+            },
+            {
+                  "id": "1735336412.8764389918117",
+                  "meno": "Viliam",
+                  "priezvisko": "Ferencz",
+                  "datumnarod": "12.12.1956",
+                  "posledna_navs": "18.07.2023",
+                  "diagnoza": "Remuatoidn\u00e1 artritida",
+                  "predpis_liek": "Metotrex\u00e1t"
+            },
+            {
+                  "id": "1735336585.2713115206849",
+                  "meno": "Albert",
+                  "priezvisko": "Petrik",
+                  "datumnarod": "07.02.1985",
+                  "posledna_navs": "18.07.2023",
+                  "diagnoza": "Osteopor\u00f3za",
+                  "predpis_liek": "Alend"
+            },
+            {
+                  "id": "1735336796.7354102546445",
+                  "meno": "Viliam",
+                  "priezvisko": "Diakon",
+                  "datumnarod": "13.11.1978",
+                  "posledna_navs": "12.03.2014",
+                  "diagnoza": "An\u00e9mia z nedostatku \u017eeleza",
+                  "predpis_liek": "Ferrosulf\u00e1t"
+            },
+            {
+                  "id": "1735337056.9240968208414",
+                  "meno": "Lucia",
+                  "priezvisko": "Bystransk\u00e1",
+                  "datumnarod": "1.4.1965",
+                  "posledna_navs": "05.07.2013",
+                  "diagnoza": "Akn\u00e9",
+                  "predpis_liek": "Izotretino\u00edn"
+            },
+            {
+                  "id": "1735337220.5807939118610",
+                  "meno": "Leo\u0161 ",
+                  "priezvisko": "Gartner",
+                  "datumnarod": "13.02.1977",
+                  "posledna_navs": "21.8.2011",
+                  "diagnoza": "Hypotyre\u00f3za",
+                  "predpis_liek": "Levotyrox\u00edn"
+            },
+            {
+                  "id": "1735337408.131034451638",
+                  "meno": "Roland",
+                  "priezvisko": "Simon",
+                  "datumnarod": "14.07.1982",
+                  "posledna_navs": "21.08.2011",
+                  "diagnoza": "Hypotyre\u00f3za",
+                  "predpis_liek": "Levotyrox\u00edn"
+            },
+            {
+                  "id": "1735337558.4288323711790",
+                  "meno": "J\u00falia  ",
+                  "priezvisko": "Rozsayov\u00e1",
+                  "datumnarod": "12.08.1981",
+                  "posledna_navs": "16.05.2021",
+                  "diagnoza": "Parkinsonova choroba",
+                  "predpis_liek": "Levodopa+Karbidopa"
+            },
+            {
+                  "id": "1735337793.468698662342",
+                  "meno": "Jozef",
+                  "priezvisko": "Szalko",
+                  "datumnarod": "16.07.1966",
+                  "posledna_navs": "15.02.2017",
+                  "diagnoza": "Dna (hyperurik\u00e9mia(",
+                  "predpis_liek": "Allopurinol"
+            },
+            {
+                  "id": "1735337930.1201038995447",
+                  "meno": "Helena",
+                  "priezvisko": "Hirkov\u00e1",
+                  "datumnarod": "01.05.1956",
+                  "posledna_navs": "18.05.2022",
+                  "diagnoza": "Alergick\u00e1 rinit\u00edda",
+                  "predpis_liek": "Loratad\u00edn"
+            },
+            {
+                  "id": "1735338134.8036861471786",
+                  "meno": "Anna",
+                  "priezvisko": "Bodz\u00e1sov\u00e1",
+                  "datumnarod": "16.06.1949",
+                  "posledna_navs": "22.07.2022",
+                  "diagnoza": "N\u00e1dcha",
+                  "predpis_liek": "Paralen"
+            }
+      ]
+}
